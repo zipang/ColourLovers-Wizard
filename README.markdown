@@ -4,17 +4,24 @@
 
 The ColourLovers-Wizard is a jQuery based javascript tiny utility library to help developpers integrate the ColourLovers API on their pages.
 
-ColourLovers (http://) is a vibrant community of millions of colour 'fanatics' all over the world that share their enthusiasm an creations about palettes of colours and great patterns to create with.
+ColourLovers (http://www.colourlovers.com) is a vibrant community of millions of colour 'fanatics' all over the world that share their enthusiasm and creations about palettes of colours and great patterns to create with.
 Some of these users may work in the graphical field (like you may found a great number of web designers) but it is not required, because the set of tools provided with the ColourLovers service are really easy to use.
 
-The use of these creations are multiples : you can use the created repeatables patterns on a wide variety of supports like fabrics, wallpaper, but of course their main use that is our concern here is how to integrate the grate palettes and patterns created by the community on your web pages.
-To allow this, ColourLovers provides a REST API that is, at the moment i write this introduction, still free to use without much restrictions.
+The use of these creations are multiples : you can use the created repeatables patterns on a wide variety of supports like fabrics, wallpaper, stickers, business cards but of course their main use that is our concern here is how to integrate the great palettes and patterns created by the community on your web pages.
+To allow this, ColourLovers provides a REST API that is, at the moment i write this introduction, free to use within any non-commercial project (for commercial usage, contact ColourLovers), and doesn't even require the need of a custom API key. 
 
-To allow even quicker productivity and reuse, *EIDOLON LABS* provides you with this library that embeds commons API uses like search and apply palettes/patterns ou your page, in a few easy-to-use and customizable functions, called as magic methods on a single Wizard object.
+To allow even quicker productivity and reuse, *EIDOLON LABS* provides you with this library that embeds commons API uses like search and apply palettes/patterns on your page, in a few easy-to-use and customizable functions, called as magic methods on a single Wizard object.
 
-## Examples ##
+## Examples - Tutorial ##
+
+The best introductive presentation to this project can be found in [this post on our web site[ (http://eidolon-labs.com).
+All the code examples provided in the article are actually embedded and executed so that the article is a real-life example of how to incorporate our library into your web page.
 
 ## Documentation ##
+
+Coming soon.
+
+While waiting for this page to be updated, check the fully documented source code of the library, as every public method is thoroughy documented.
 
 ## Licences ##
 
